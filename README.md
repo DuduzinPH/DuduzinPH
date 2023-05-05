@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I am a Brazilian student,I'm studying electronics, who is always looking to learn new areas of technology, i have been practicing front-end (html, css and js) I also do robotics projects
 - 🌱 I’m currently learning front-end and development robots with arduino;
 - 👯 I’m looking to working with web-development
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/eduardo-ara%C3%BAjo-1600a5265
 - ⚡ Fun fact: i'm have 6 years of experience with robotic;
 
